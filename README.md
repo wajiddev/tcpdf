@@ -24,4 +24,6 @@ hostbill
 
 فقط کافیست فایل های بالا را باز کرده و در محل فونت پیشفرض قرار دهید
 
+<br/>
 
+![Fonts Sample](fonts-sample.jpg?raw=true "Fonts Sample")
